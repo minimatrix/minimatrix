@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonny Carter
 - 👀 I’m interested in all things web / mobile
-- 💞️ I’m looking to collaborate on anything React / React Native 
+- 💞️ I’m looking to collaborate on anything React / React Native / Node / Laravel 
 - 📫 You can find me on twitter @jonnycarter89
 
 <!---
